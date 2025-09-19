@@ -1,5 +1,4 @@
-**Status:** Presentation-only repository. Source code is intentionally excluded.
- 
+## Track2Map
 Track2Map is a system designed to improve real-time situational awareness in public spaces by augmenting CCTV with modern AI. At a high level, it detects people in video streams, tracks them over time, projects their positions onto a 2D site map for a unified view, and (in future work) flags anomalous behavior for rapid response.
  
 > This repository contains a short, non-technical overview and the public presentation only.  
