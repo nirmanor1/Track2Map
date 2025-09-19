@@ -19,12 +19,7 @@ Traditional cameras capture everything but rarely *help in real time*. Track2Map
 2. **Mapping to a 2D layout** (homography) for location-aware visualization.  
 3. **Cross-camera matching** to preserve identities across overlapping views.  
 4. **Operator view** with a live map and (future) **anomaly alerts**.
- 
-*(Names of specific models/algorithms are intentionally omitted in this README. See the slide deck for a conceptual illustration.)*
- 
-## Slides
-- `presentation/Track2Map_Project_Day.pdf` — short public deck with visuals.
- 
+  
 ## Team
 - **Arbel Askayo** & **Nir Manor**  
 - Academic advisor: **Prof. Ilan Shimshoni**
